@@ -1,0 +1,36 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CopyComplete
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CopyComplete
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\DVLD Project Final-Abuhudhud\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\DVLD Project Final-Abuhudhud\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\DVLD Project Final-Abuhudhud\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\DVLD Project Final-Abuhudhud\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\DVLD Project Final-Abuhudhud\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\DVLD Project Final-Abuhudhud\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\DVLD Project Final-Abuhudhud\Project\DVLD_Buisness\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\DVLD Project Final-Abuhudhud\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\DVLD Project Final-Abuhudhud\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\DVLD\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\DVLD\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\DVLD\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\DVLD\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\DVLD\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\DVLD\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\DVLD\DVLD_Buisness\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\DVLD\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\DVLD\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
